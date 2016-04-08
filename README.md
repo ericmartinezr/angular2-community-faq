@@ -73,8 +73,10 @@
 - [How do I communicate between two sibling components?](services.md#how-do-i-communicate-between-two-sibling-components)
 - [How do I communicate between components using a shared service?](services.md#how-do-i-communicate-between-components-using-a-shared-service)
 
-##Testing
-- [How do I test an error path with Http and MockBackend?](testing-http-services.md)
+##[Testing](testing.md)
+- [How do I test an error path with Http and MockBackend?](testing.md#how-do-i-test-an-error-path-with-http-and-mockbackend)
+- [How to test an input field?](testing.md#how-to-test-an-input-field)
+- [How to test an Observable?](testing.md#how-to-test-an-observable)
 
 ##[Making fun things](cool_stuff.md)
 - Drag and Drop
